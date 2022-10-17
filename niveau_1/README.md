@@ -1,0 +1,7 @@
+# Histoire
+
+En l'an 2132, une planète habitée a été découverte aux confins de la galaxie, et baptisée Algoréa. Dix ans plus tard, vous êtes envoyé(e) en mission autour de cette planète dans le but d'établir un tout premier contact avec ses habitants. Malheureusement, la comète Hal a percuté votre vaisseau alors que vous vous approchiez d'Algoréa. Vous avez été contraint(e) de vous éjecter en urgence dans une capsule de sauvetage. Vous atterrissez sur la planète avec pour seul bagage un robot de maintenance.
+
+Isolé(e) sur ce globe lointain, vous allez donc rencontrer ses habitants, découvrir leurs coutumes et créer des liens afin d'entamer une relation pacifique en attendant que la prochaine mission vienne vous récupérer. Vous allez pour cela profiter des capacités de votre robot ! Celui-ci est accompagné d'un manuel, qui vous sera bien utile dans votre parcours. Ce robot est capable d'imprimer du texte, d'afficher des caractères sur un écran, de se déplacer et de bouger des objets.
+
+Vous remarquez que le manuel propose de commander le robot à l'aide de plusieurs langages, en écrivant du code sur un clavier. Une fois votre choix effectué, vous vous dirigez vers un site qui semble abriter la vie.
